@@ -5,7 +5,7 @@
 
 
 ### Overview
-This project uses a deep convolutional neural networks to classify traffic signs. 
+This project uses a deep convolutional neural network to classify traffic signs. 
 The CNN model takes as input the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset) and understands road signs from images. The [notebook](Traffic_Sign_Classifier.ipynb) shows the code as well full results.   
 
 ### Dependencies
