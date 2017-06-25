@@ -12,12 +12,12 @@ The CNN model takes as input the [German Traffic Sign Dataset](http://benchmark.
 The code is stored in a [Jupyter Notebook](http://jupyter.org/) and requires **Python 3.5**. Please refer to the [project website](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project) for implementation details. 
 
 ### Preprocessing
-The project pipeline includes functions to transform poor color in high contrast grey images.  
-E.g.:
-_No passing_
+The project pipeline includes functions to transform poor color in high contrast grey images. E.g.:  
+
+* _No passing_  
 <img src="traffic-signs-pre-processing/NoPassing.png" width="480" alt="Combined Image" />
 
-_Speed limit_
+* _Speed limit_  
 <img src="traffic-signs-pre-processing/SpeedLimit.png" width="480" alt="Combined Image" />
 
 ### Result
