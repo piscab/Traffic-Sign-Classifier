@@ -12,7 +12,7 @@ The CNN model takes as input the [German Traffic Sign Dataset](http://benchmark.
 The code is stored in a [Jupyter Notebook](http://jupyter.org/) and requires **Python 3.5**. Please refer to the [project website](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project) for implementation details. 
 
 ### Preprocessing
-The project pipeline includes functions to transform poor color in high contrast grey images. E.g.:  
+The project pipeline includes functions to transform poor colors in high contrast grey images. E.g.:  
 
 * _No passing_  
 <img src="traffic-signs-pre-processing/NoPassing.png" width="480" alt="Combined Image" />
@@ -23,5 +23,5 @@ The project pipeline includes functions to transform poor color in high contrast
 ### Results
 At the end, with this CNN model you can obtain the following accuracy:
 * training set: near 100%  
-* validation set accuracy: 94%  
+* validation set: 94%  
 * test set: 85%
