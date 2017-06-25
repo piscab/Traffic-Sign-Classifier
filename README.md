@@ -20,7 +20,7 @@ The project pipeline includes functions to transform poor color in high contrast
 * _Speed limit_  
 <img src="traffic-signs-pre-processing/SpeedLimit.png" width="480" alt="Combined Image" />
 
-### Result
+### Results
 At the end, I obtain the following results:
 * train set accuracy: near 100%  
 * the validation set accuracy: 94%  
