@@ -21,7 +21,7 @@ The project pipeline includes functions to transform poor color in high contrast
 <img src="traffic-signs-pre-processing/SpeedLimit.png" width="480" alt="Combined Image" />
 
 ### Results
-At the end, I obtain the following results:
-* train set accuracy: near 100%  
-* the validation set accuracy: 94%  
-* the test accuracy: 85%
+At the end, with this CNN model you can obtain the following accuracy:
+* training set: near 100%  
+* validation set accuracy: 94%  
+* test set: 85%
